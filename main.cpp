@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout <<  " HW#4 Anton Teren " << endl << endl;
+    cout <<  " HW#4 " << endl << endl;
 
     cout.setf(ios::fixed, ios::floatfield);  // specify the number of decimal places (2 digits after a period)
     cout.precision(2);
